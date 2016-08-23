@@ -1,0 +1,27 @@
+.blueBg {
+	background-color: blue;
+	color: white;
+}
+.customButton{
+	width: 100%;
+	padding: 3px;
+	background-color: #3879D9;
+	color: #fff;
+	text-align: left;
+}
+.customDropdown {
+	width:200px;
+	padding: 5px;
+	border: 1px solid blue;
+}
+.dropdownList {
+	list-style:none;
+	padding: 5px 0;
+	margin-bottom: 0px;
+}
+.listShow{
+	display: block;
+}
+.listHide{
+	display: none;
+}
